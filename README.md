@@ -17,7 +17,7 @@ QRWare isn't just about links. It's about turning QR codes into bridges that con
 ## Key Features
 
 - **Tailored QR Codes:** Shape QR codes to your imagination with robust customization options.
-- **Engage and Captivate:** Embed URLs, contacts, or messages for a captivating user journey.
+- **Engage and Captivate:** Embed URLs, contacts, or Payloads for a captivating user journey.
 - **Innovate Across Fields:** Find inventive ways to integrate QR codes into your endeavors.
 
 ## Getting Started
@@ -40,7 +40,7 @@ To generate your own custom QR code, follow these steps:
 
 ## Advanced Customization (Handle with Care)
 
-Venture further with QRWare's advanced customization. Explore URLs, payloads, and more. But remember, innovation should be ethical and compliant. QRWare promotes creativity, not malevolence.
+Venture further with QRWare's advanced customization. Explore URLs, Payloads, and more. But remember, innovation should be ethical and compliant. QRWare promotes creativity, not malevolence.
 
 ## Legal Disclaimer
 
