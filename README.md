@@ -48,9 +48,9 @@ QRWare is purely for educational and informative purposes. We firmly condemn any
 
 ## Meet the Author
 
-QRWare emerges from the ingenious mind of Olanrewaju Fawaz Fakorede (OFF) – an ethical hacker, cybersecurity professional, and computer science student. OFF believes in shaping the tech landscape with innovation and vigilance.
+QRWare emerges from Olanrewaju Fawaz Fakorede (OFF) – an Ethical hacker, Cybersecurity Expert, CS major. OFF believes in shaping the tech landscape with innovation and vigilance.
 
-As a computer science student, OFF explores the depths of technology to promote cybersecurity awareness and ethical practices. OFF's commitment to a safer digital world is unwavering.
+ OFF explores the depths of technology to promote cybersecurity awareness and ethical practices. OFF's commitment to a safer digital world is unwavering.
 
 Contact OFF on [Gmail](LanreFakorede9@gmail.com  ) for insights, discussions, and collaborations.
 
